@@ -4,6 +4,12 @@ An evidence-first analytics project for exploring KKBOX subscription transaction
 
 The work is intentionally scoped as a learning and portfolio project. Results are based on a development sample and should not be interpreted as platform-wide revenue, retention, or churn estimates.
 
+## Live demo
+
+[Open the KKBOX analytics demo](https://yangli-07-kkbox-subscription-analytics-appstreamlit-app-ict3zk.streamlit.app/)
+
+The hosted app uses independently generated simulated data for public demonstration.
+
 ## What this project demonstrates
 
 - User-level sampling rather than random transaction-row sampling.
