@@ -39,9 +39,9 @@ The SQL export targets are under `data/processed/` for local use. That directory
 
 ### 4. Tableau and Power BI
 
-The planned BI workflow uses Tableau for exploratory retention/usage views and Power BI for operating summaries and renewal operations. v1/v2, sample scope, and observation windows must remain visible in the analysis.
+The completed Tableau and Power BI dashboards display monthly transaction counts, monthly distinct-user counts, and transaction-record amounts, with v1 and v2 kept separate. The version, sample scope, and observation window remain visible in the analysis.
 
-The local project has Tableau and Power BI artifacts, but the public repository does not publish the Tableau workbook, Power BI file, original data, or real processed-data exports. Separate archival acceptance records are not included.
+The workbooks are not published to the repository because they may embed sample data. These dashboards should not be described as implementing real retention, real churn, net revenue, MRR, or renewal-operations metrics.
 
 ### 5. Streamlit
 
