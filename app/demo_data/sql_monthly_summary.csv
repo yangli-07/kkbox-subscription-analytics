@@ -1,0 +1,7 @@
+source_version,transaction_month,transaction_count,distinct_user_count,transaction_record_amount
+v1,2024-01,42,31,4875
+v1,2024-02,51,36,6120
+v1,2024-03,47,34,5590
+v2,2024-01,29,22,3380
+v2,2024-02,35,25,4215
+v2,2024-03,39,28,4680

@@ -1,0 +1,3 @@
+source_version,transaction_count,distinct_user_count,auto_renew_record_count,auto_renew_record_share,cancel_flag_record_count,cancel_flag_record_share,transaction_record_amount
+v1,140,67,88,0.628571,5,0.035714,16585
+v2,103,49,71,0.689320,4,0.038835,12200

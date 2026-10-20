@@ -5,3 +5,9 @@ data/
 .venv/
 __pycache__/
 .DS_Store
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+~$*.xlsx
+*.twbr

@@ -1,0 +1,7 @@
+source_version,payment_method_id,payment_plan_days,transaction_count,transaction_record_amount
+v1,101,30,28,2940
+v1,102,90,19,3215
+v1,103,365,12,10430
+v2,101,30,24,2520
+v2,102,90,16,2720
+v2,103,365,8,6960
